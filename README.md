@@ -9,15 +9,13 @@ I'm a team-oriented fullstack developer with a background in business and inform
 -  :computer: I worked as a  **Software Support Engineer** for 5 years in Tokyo
 -  :page_with_curl: Graduated Western Washington University with a **BA in Management Information Systems**
 -  :seedling: My 2022 Goals are to learn **React**, **Golang**, and **GCP (Google Cloud Platform)**
+-  :car: Currently **open to work** for exciting projects or companies (Contract or employment)
 
 ## My Tools:
 <p><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ruby_On_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-1877F2?style=flat-square&logo=electron&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-
-
-
+<img src="https://img.shields.io/badge/-React-1877F2?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
