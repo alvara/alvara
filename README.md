@@ -1,3 +1,5 @@
+![Header image](https://github.com/alvara/alvara/blob/master/github-banner.png)
+
 ### Hi there 👋
 
 <!--
