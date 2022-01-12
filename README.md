@@ -1,9 +1,11 @@
 ![Header image](https://github.com/alvara/alvara/blob/master/github-banner.png)
 
+
+[![Website Badge](https://img.shields.io/badge/-My_Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jessealvarado.com/)](https://jessealvarado.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-alvarado/)](https://www.linkedin.com/in/jesse-alvarado/)
-[![Website Badge](https://img.shields.io/badge/-View_Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jessealvarado.com/)](https://jessealvarado.com/)
+
 [![Google Cloud Platform Badge](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=Googlecloud&logoColor=white&link=https://www.cloudskillsboost.google/public_profiles/e6ee1b1f-fdc4-4ef4-a99f-95176b203d30)](https://www.cloudskillsboost.google/public_profiles/e6ee1b1f-fdc4-4ef4-a99f-95176b203d30)
-[![Gmail Badge](https://img.shields.io/badge/-Send_Email-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contact@jessealvarado.com)](mailto:contact@jessealvarado.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email_Me-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contact@jessealvarado.com)](mailto:contact@jessealvarado.com)
 
 ## About Me:
 I'm a team-oriented fullstack developer with a background in business and information technology.
