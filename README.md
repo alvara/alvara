@@ -10,7 +10,7 @@
 I'm a team-oriented fullstack developer with a background in business and information technology.
 -  :computer: I worked as a  **Software Support Engineer** for 5 years in Tokyo
 -  :page_with_curl: Graduated Western Washington University with a **BA in Management Information Systems**
--  :seedling: My 2022 Goals are to learn **React**, **Golang**, and **GCP (Google Cloud Platform)**
+-  :seedling: My 2022 Goals are to learn **Svelte**, **Golang**, and **GCP (Google Cloud Platform)**
 -  :car: Currently **open to work** for exciting projects or companies (Contract or employment)
 
 ## My Tools:
