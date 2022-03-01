@@ -11,7 +11,7 @@ I'm a self-driven, team-oriented full stack developer with a background in web d
 I aim to solve problems and drive results for clients by developing web applications that are fast in performance, flexible in design, and typed in clean code for easy collaboration and maintenance.
 -  :computer: I worked as a  **Software Support Engineer** for 5 years in Tokyo
 -  :page_with_curl: Graduated Western Washington University with a **BA in Management Information Systems**
--  :seedling: I am currently focused on building **NextJS** apps with **Sanity**, **Firebase**, and **Go (Golang)** in the backend.
+-  :seedling: I am focused on building **NextJS** apps with **Sanity**, **Firebase**, and **Go (Golang)** in the backend.
 -  :car: Currently **open to work** for exciting projects or companies (Contract or employment)
 
 ## My Tools:
