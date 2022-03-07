@@ -1,4 +1,4 @@
-![Header image](https://github.com/alvara/alvara/blob/master/github-banner.png)
+<!-- ![Header image](https://github.com/alvara/alvara/blob/master/github-banner.png) -->
 
 
 [![Website Badge](https://img.shields.io/badge/-My_Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jessealvarado.com/)](https://jessealvarado.com/)
