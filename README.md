@@ -7,28 +7,25 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email_Me-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contact@jessealvarado.com)](mailto:contact@jessealvarado.com)
 
 ## About Me:
-I'm a self-driven, team-oriented full stack developer with a background in web development.
+I'm a self-driven, team-oriented JAMSTACK developer with a background in business and IT.
 I aim to solve problems and drive results for clients by developing web applications that are fast in performance, flexible in design, and typed in clean code for easy collaboration and maintenance.
 -  :computer: I worked as a  **Software Support Engineer** for 5 years in Tokyo
 -  :page_with_curl: Graduated Western Washington University with a **BA in Management Information Systems**
--  :seedling: I am focused on building **NextJS** apps with **Sanity**, **Firebase**, and **Go (Golang)** in the backend.
--  :car: Currently **open to work** for exciting projects or companies (Contract or employment)
+-  :seedling: I am focused on building **NextJS** apps with **Typescript**, **Netlify**, and **PostgreSQL**.
+-  :car: Currently **open to work** for projects or companies with a strong mission (Contract or employment)
 
 ## My Tools:
 <p><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ruby_On_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-1877F2?style=flat-square&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 </p>
 
 ## My Github Stats:
