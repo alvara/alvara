@@ -7,12 +7,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email_Me-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contact@jessealvarado.com)](mailto:contact@jessealvarado.com)
 
 ## About Me:
-I'm a self-driven, team-oriented JAMSTACK developer with a background in business and IT.
+Freelance Frontend Developer with a background in business and IT.
 I aim to solve problems and drive results for clients by developing web applications that are fast in performance, flexible in design, and typed in clean code for easy collaboration and maintenance.
--  :computer: I worked as a  **Software Support Engineer** for 5 years in Tokyo
+
+-  :computer: Worked as a  **Software Support Engineer** for 5 years in Tokyo
 -  :page_with_curl: Graduated Western Washington University with a **BA in Management Information Systems**
 -  :seedling: I am focused on building **NextJS** apps with **Typescript**, **Netlify**, and **PostgreSQL**.
--  :car: Currently **open to work** for projects or companies with a strong mission (Contract or employment)
+-  :car: Currently **open to work** for projects or companies with a strong mission (Contract only)
 
 ## My Tools:
 <p><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
