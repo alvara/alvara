@@ -3,31 +3,15 @@
 
 [![Website Badge](https://img.shields.io/badge/-My_Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jessealvarado.com/)](https://jessealvarado.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-alvarado/)](https://www.linkedin.com/in/jesse-alvarado/)
-[![Google Cloud Platform Badge](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=Googlecloud&logoColor=white&link=https://www.cloudskillsboost.google/public_profiles/e6ee1b1f-fdc4-4ef4-a99f-95176b203d30)](https://www.cloudskillsboost.google/public_profiles/e6ee1b1f-fdc4-4ef4-a99f-95176b203d30)
 [![Gmail Badge](https://img.shields.io/badge/-Email_Me-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contact@jessealvarado.com)](mailto:contact@jessealvarado.com)
 
 ## About Me:
-Freelance Frontend Developer with a background in business and IT.
-I aim to solve problems and drive results for clients by developing web applications that are fast in performance, flexible in design, and typed in clean code for easy collaboration and maintenance.
+Dedicated **Next.js Specialist** and **Freelance Frontend Developer** leveraging a strong foundation in business and IT to deliver high-performing, versatile, and elegantly-coded web applications. My expertise lies in devising client-centric solutions that drive results and ensure ease of collaboration and maintenance.
 
--  :computer: Worked as a  **Software Support Engineer** for 5 years in Tokyo
--  :page_with_curl: Graduated Western Washington University with a **BA in Management Information Systems**
--  :seedling: I am focused on building **NextJS** apps with **Typescript**, **Netlify**, and **PostgreSQL**.
--  :car: Currently **open to work** for projects or companies with a strong mission (Contract only)
-
-## My Tools:
-<p><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Ruby_On_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-1877F2?style=flat-square&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-</p>
+-  💻 5 years in Tokyo as a **Software Support Engineer** and 3 years as a **freelance developer**
+-  🎓 **BA in Management Information Systems** from Western Washington University.
+-  🌱 My goto tech stack: **Next.js** and **TypeScript** for frontend, **Figma** for design, **Vercel** for deployment, and a variety of API based technologies depending on objectives (**Supabase, Notion, AWS, InsanityIO, Swagger/OpenAPI**).
+-  :car: Keen to lend my skills to projects or companies with a meaningful mission, preferably on a contract basis.
 
 ## My Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alvara&show_icons=true&hide_border=true&hide_title=true&hide=stars)
