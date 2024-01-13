@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email_Me-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contact@jessealvarado.com)](mailto:contact@jessealvarado.com)
 
 ## About Me:
-Dedicated **Next.js Specialist** and **Freelance Frontend Developer** leveraging a strong foundation in business and IT to deliver high-performing, versatile, and elegantly-coded web applications. 
+I'm a **Freelance Frontend Developer** and dedicated **Next.js Specialist**. Leveraging a strong foundation in business and IT to deliver high-performing, versatile, and elegantly-coded web applications. 
 
 :point_right: [**Learn more here**](https://www.jessealvarado.com) :point_left: 
 
@@ -14,9 +14,4 @@ Dedicated **Next.js Specialist** and **Freelance Frontend Developer** leveraging
 -  💻 5 years in Tokyo as a **Software Support Engineer** and 3 years as a **freelance developer**
 -  🎓 **BA in Management Information Systems** from Western Washington University.
 -  🌱 My Tech Stack: **Next.js** and **TypeScript** for frontend, **Figma** for design, **Vercel** for deployment, and a variety of API based technologies depending on objectives (**Supabase, Notion, AWS, InsanityIO, Swagger/OpenAPI**).
--  :car: Keen to lend my skills to projects or companies with a meaningful mission, preferably on a contract basis.
-
-## My Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=alvara&show_icons=true&hide_border=true&hide_title=true&hide=stars)
-
-  
+-  :car: Keen to lend my skills to projects or companies with a meaningful mission, preferably on a contract basis.  
