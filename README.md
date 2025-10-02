@@ -8,7 +8,7 @@
 ## About Me:
 **Freelance Frontend Developer** and dedicated **Next.js Specialist**. I build and deliver production-grade web applications for startups and small businesses in the health and fitness sectors.
 
-:point_right: [**Learn more here**](https://www.jessealvarado.com) :point_left: 
+:point_right: [**visit jessealvarado.com**](https://www.jessealvarado.com) :point_left: 
 
 ## 
 -  💻 Over a decade developing web applications for startups and small businesses
