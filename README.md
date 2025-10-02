@@ -6,12 +6,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email_Me-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contact@jessealvarado.com)](mailto:contact@jessealvarado.com)
 
 ## About Me:
-I'm a **Freelance Frontend Developer** and dedicated **Next.js Specialist**. Leveraging a strong foundation in business and IT to deliver high-performing, versatile, and elegantly-coded web applications. 
+**Freelance Frontend Developer** and dedicated **Next.js Specialist**. I build and deliver production-grade web applications for startups and small businesses in the health and fitness sectors.
 
 :point_right: [**Learn more here**](https://www.jessealvarado.com) :point_left: 
 
 ## 
--  💻 5 years in Tokyo as a **Software Support Engineer** and 3 years as a **freelance developer**
--  🎓 **BA in Management Information Systems** from Western Washington University.
--  🌱 My Tech Stack: **Next.js** and **TypeScript** for frontend, **Figma** for design, **Vercel** for deployment, and a variety of API based technologies depending on objectives (**Supabase, Notion, AWS, InsanityIO, Swagger/OpenAPI**).
--  :car: Keen to lend my skills to projects or companies with a meaningful mission, preferably on a contract basis.  
+-  💻 Over a decade developing web applications for startups and small businesses
+-  🎓 Graduated Western Washington University with a BA in Management Information Systems
+-  ⚙️ Typescript focused: Go to stack is **Next.js** with **Payload CMS** for fullstack projects. Regularly convert Figma designs to working applications and often work with backend engineers to implement API as necessary (Swagger/OpenAPI and GraphQL).
+-  👍 Available for contract basis
