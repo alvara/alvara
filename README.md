@@ -9,5 +9,5 @@
 ## 
 -  💻 Over a decade developing web applications for startups and small businesses
 -  🎓 Graduated Western Washington University with a BA in Management Information Systems
--  ⚙️ Typescript focused: Go to stack is **Next.js** with **Payload CMS** for fullstack projects. Regularly convert Figma designs to working applications and often work with backend engineers to implement API as necessary (Swagger/OpenAPI and GraphQL).
--  👍 Available for contract basis
+-  ⚙️ Typescript Focused: My go-to stack is **Next.js** with **Nest JS** or **Payload CMS**, depending on the project. I regularly convert Figma designs to working applications and work with backend engineers to implement API as necessary (Swagger/OpenAPI, GraphQL, or TRPC).
+-  👍 Working on my own SAAS, but open to work on a select few projects.
