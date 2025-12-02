@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email_Me-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contact@jessealvarado.com)](mailto:contact@jessealvarado.com)
 
 ## About Me:
-**Freelance Frontend Developer** and dedicated **Next.js Specialist**. I build and deliver production-grade web applications for startups and small businesses in the health and fitness sectors.
+**Freelance Fullstack Developer** and dedicated **Next.js Specialist**. I build and deliver production-grade web applications for startups and small businesses in the health and fitness sectors.
 
 ## 
 -  💻 Over a decade developing web applications for startups and small businesses
