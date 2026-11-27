@@ -1,37 +1,46 @@
-<!-- ![Header image](https://github.com/alvara/alvara/blob/master/github-banner.png) -->
-
-[![Website Badge](https://img.shields.io/badge/-jessealvarado.com-000000?style=flat-square&logo=vercel&logoColor=white&link=https://jessealvarado.com)](https://jessealvarado.com)
+[![Website Badge](https://img.shields.io/badge/-jessealvarado.com-000000?style=flat-square&logo=cloudflare&logoColor=white&link=https://jessealvarado.com)](https://jessealvarado.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesse-alvarado/)](https://www.linkedin.com/in/jesse-alvarado/)
 [![Gmail Badge](https://img.shields.io/badge/-Email_Me-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contact@jessealvarado.com)](mailto:contact@jessealvarado.com)
 
-## About Me:
+## Jesse Alvarado
 
-**Freelance Frontend Engineer** and dedicated **Next.js Specialist** in Tokyo for ecommerce and health/fitness sectors. I turn designs and prototypes into products you can put in front of customers.
+**Full-stack developer.** I build SaaS for members, payments and events.
 
-Most of what I get hired for is the last mile: a prototype that works on the founder's laptop, a Figma file built through rounds of customer interviews, a frontend written fast that can no longer be changed. I take those to production, where they meet real users, real payments, and real edge cases. I ship whole features, backend included.
+Full-stack developer with over a decade building web apps. I build fast, polished React, Next.js and TypeScript apps and the APIs behind them, then ship one codebase to web, iOS, Android and desktop. Available for remote work.
 
-Im currently building **Crewcade** for brand partnerships for fitness communities in Tokyo and APAC region.
+## What I build
 
-##
+- **Memberships and billing:** subscriptions, class packs and drop-ins, with renewals and failed payments handled through Stripe webhooks.
+- **Marketplace payouts:** Stripe Connect sends each seller's money to their own account. Square subscriptions too.
+- **Recurring events:** event series stored as iCalendar recurrence rules (RFC 5545), with tickets, capacity and attendee lists.
+- **Role-based access (RBAC):** custom roles, checked on every API call, that decide who sees and joins what.
+- **Multi-tenant SaaS:** many organizations on one platform, each with its own branding, custom domain, users and isolated data.
+- **API integrations:** Stripe, Square, LINE, Discord, Google and Postmark, with signed webhooks, OAuth, retries and idempotent handlers.
+- **AI features and MCP servers:** in-app AI over your own data, and MCP servers that let agents act within the user's permissions.
+- **Internationalization:** English and Japanese products, with locale-aware dates and currency.
 
-- 💻 Over a decade developing web applications for startups and small businesses — e-commerce, and fitness
-- 🎓 Graduated Western Washington University with a BA in Management Information Systems
-- ⚙️ **Typescript Focused:** My go-to stack is **Next.js** with **Nest JS** or **Payload CMS**, typically within a PNPM monorepo. I regularly convert Figma designs to working applications and work with backend engineers to implement APIs as necessary (Swagger/OpenAPI, GraphQL, or tRPC).
-- 🏃 **Director of SOGO Fitness**, a ten-year-old Tokyo fitness community, and organizer of **Midnight Runners Tokyo** — one of 18 chapters worldwide.
-- 👍 Working on my own SaaS, but open to work on a select few projects.
+## Work
 
-## What I'm Building:
+**[Crewcade](https://crewcade.com)** (2024 to now). Check-in and membership software for fitness and wellness groups. Custom roles decide who can see and join private events, every payment lands in the club's one Stripe account, and members check in with a QR pass in the phone browser. Multi-tenant with custom domains, bilingual (en/ja), with chat. In early access: SOGO Fitness in Tokyo runs on it.
 
-**[Crewcade](https://crewcade.com)** — a booking and payments platform for independent fitness instructors in Japan. Multi-tenant, bilingual (en/ja), Stripe Connect, RFC 5545 recurring scheduling. In limited production while I pilot it with the community I organize in Tokyo.
+**Arrow Note** (internal tool). Project management for me and my AI agents, in plain Markdown files. I built it after GitHub Projects went down and stopped my work. No database: a Cloudflare relay syncs files across Mac, Android and a Chrome extension, and every change backs up to GitHub. Agents read the files directly, with a built-in MCP server when they need one. Kanban boards, a Notion-style editor, recurring tasks in frontmatter and Google Calendar. Not for sale; ask me for a live demo.
 
-## Current Stack:
+**Reboot** (2023). A device rental subscription storefront in Japan, taken from a prototype and a new Figma design to production. Next.js against the client's Django API, with Square subscription payments.
 
-**Deep** — TypeScript · React · Next.js (App Router) · state and data layers · design systems · performance · accessibility
+## Stack
 
-**Comfortable, shipping in production** — Node · NestJS · PostgreSQL · Prisma · Stripe · OAuth · Payload CMS · typed API clients (OpenAPI/Orval, tRPC, GraphQL) · PNPM monorepos · CI/CD
+**Frontend:** TypeScript · React · Next.js (App Router) · Astro · Tailwind CSS · React Query · design systems · performance · accessibility
 
-##
+**Backend:** Node · NestJS · PostgreSQL · Prisma · GraphQL · Payload CMS · typed API clients (OpenAPI/Orval, tRPC) · OAuth
 
-📍 Tokyo (JST) · Full overlap with APAC, mornings with the US West Coast · US citizen, W-9/1099
+**Mobile, desktop and AI:** Capacitor · Electron · SQLite · MCP servers
 
-**[jessealvarado.com](https://jessealvarado.com)** · **[contact@jessealvarado.com](mailto:contact@jessealvarado.com)**
+**Infrastructure:** pnpm monorepos · GitHub Actions · Cloudflare · Vercel · Railway · Google Cloud · AWS S3 · Sentry · Postmark · Stripe · Square
+
+## About
+
+In software since 2016. Outside of code I run communities: I've run over 400 events in Tokyo, I direct SOGO Fitness, a ten-year-old community there, and I was a captain of Midnight Runners Tokyo for three years. That's where my products come from.
+
+BA in Management Information Systems, Western Washington University. US citizen, W-9 / 1099. Works US hours.
+
+[jessealvarado.com](https://jessealvarado.com) · contact@jessealvarado.com
